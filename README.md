@@ -5,7 +5,7 @@ Start time:
 -Early adults run at 9:30 am.
 -Late adults run at 11:00 am.
 -Youth registrants run at 12:30 pm (regardless of registration).
-...But we didn’t plan for runners that are exactly 18!... */
+...But we didn’t plan for runners that are exactly 18!...  codecademy proj conditionals section*/
 
 
 let raceNumber = Math.floor(Math.random() * 1000);
